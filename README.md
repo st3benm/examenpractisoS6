@@ -66,4 +66,4 @@
 	
 	Escribir "Su nuevo sueldo mensual total de: " aument_bonifi "$"
 	
-FinProceso
+        FinProceso
