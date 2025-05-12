@@ -1,5 +1,5 @@
 
-Proceso examenpractico
+        Proceso examenpractico
 	
 	//Primero leemos el problema 
 	//Pedimos al usuario los valores de cuanto es su sueldo y cuantos años de servicio tiene el usuario y el porcentaje del objetivo cumplido 
